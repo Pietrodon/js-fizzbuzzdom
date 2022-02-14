@@ -13,6 +13,7 @@ h1{
     align-items: center;
     flex-wrap: wrap;
     gap: 15px;
+    
 }
 .box{
     width: 80px;
@@ -21,4 +22,14 @@ h1{
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: rgb(19, 137, 178);
+}
+.fizz{
+    background-color: rgb(11, 214, 161);
+}
+.buzz{
+    background-color: rgb(255, 209, 102);
+}
+.fizzbuzz{
+    background-color: rgb(248, 25, 62);
 }
